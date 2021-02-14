@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_allForOpportunity"
+        android:title="ALL" />
+    <item
+        android:id="@+id/action_fhazForOpportunity"
+        android:title="FHAZ" />
+    <item
+        android:id="@+id/action_rhazForOpportunity"
+        android:title="RHAZ" />
+    <item
+        android:id="@+id/action_navcamForOpportunity"
+        android:title="NAVCAM" />
+    <item
+        android:id="@+id/action_pancamForOpportunity"
+        android:title="PANCAM" />
+    <item
+        android:id="@+id/action_minitesForOpportunity"
+        android:title="MINITES" />
+</menu>

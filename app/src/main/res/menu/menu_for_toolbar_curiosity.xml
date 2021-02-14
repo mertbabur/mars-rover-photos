@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_allForCuriosity"
+        android:title="ALL"/>
+    <item
+        android:id="@+id/action_fhazForCuriosity"
+        android:title="FHAZ" />
+    <item
+        android:id="@+id/action_rhazForCuriosity"
+        android:title="RHAZ" />
+    <item
+        android:id="@+id/action_mastForCuriosity"
+        android:title="MAST" />
+    <item
+        android:id="@+id/action_chemcamForCuriosity"
+        android:title="CHEMCAM" />
+    <item
+        android:id="@+id/action_mahliForCuriosity"
+        android:title="MAHLI" />
+    <item
+        android:id="@+id/action_mardiForCuriosity"
+        android:title="MARDI" />
+    <item
+        android:id="@+id/action_navcamForCuriosity"
+        android:title="NAVCAM" />
+</menu>
